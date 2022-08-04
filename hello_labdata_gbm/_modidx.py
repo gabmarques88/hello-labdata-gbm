@@ -26,5 +26,5 @@ d = { 'settings': { 'audience': 'Developers',
                 'tst_flags': 'notest',
                 'user': 'gabmarques88',
                 'version': '0.0.1'},
-  'syms': { 'hello_labdata_gbm\\greetings': { 'hello_labdata_gbm\\greetings.hello': 'https://gabmarques88.github.io/hello_labdata_gbm/hello_labdata_gbm\\greetings.html#hello'},
-            'hello_labdata_gbm\\jokes': { 'hello_labdata_gbm\\jokes.qual_time_nao_tem_mundial': 'https://gabmarques88.github.io/hello_labdata_gbm/hello_labdata_gbm\\jokes.html#qual_time_nao_tem_mundial'}}}
+  'syms': { 'hello_labdata_gbm.greetings': {'hello_labdata_gbm.greetings.hello': 'https://gabmarques88.github.io/hello_labdata_gbm/greetings.html#hello'},
+            'hello_labdata_gbm.jokes': { 'hello_labdata_gbm.jokes.qual_time_nao_tem_mundial': 'https://gabmarques88.github.io/hello_labdata_gbm/jokes.html#qual_time_nao_tem_mundial'}}}
